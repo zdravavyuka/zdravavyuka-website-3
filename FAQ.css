@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+   background-color: green;
+}
+
+.introduction {
+    position: fixed;
+    height: 125px;
+    width: 100%;
+    background-color: white;
+    top: 0px;
+    z-index: 1;
+    
+
+}
+.text-styling-1 {
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+display: inline-block;
+margin-left: 15%;
+margin-top: 3%;
+background: none;
+
+
+}
+.a-introduction {
+    color: black;
+    background: none;
+    
+}
+.logo {
+    height: 100px;
+    width: auto;
+    position: absolute;
+    border-radius: 50%;
+    left: 40px;
+    top: 7px;
+}
+.questionBox {
+    position: relative;
+    height: 500px;
+    width: 600px;
+    background-color: green;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    margin-left: 100px;
+    margin-top: 225px;
+    margin-bottom: 100px;
+    scroll-margin-top: 180px;
+}
+.menuBox {
+    position: fixed;
+    left: 900px;
+    top: 225px;
+    width: 500px;
+    background-color: green; 
+
+}
+.heading1-text {
+    color: white;
+    background: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.paragraph-text {
+    color: white;
+    background: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.heading2-text {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    font-size: 25px;
+    color: white;
+    background: none;
+}
+.a-menu {
+    color: white;
+    background: none;
+    font-family: Arial, Helvetica, sans-serif;
+}

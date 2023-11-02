@@ -65,7 +65,7 @@ div {
     top: 5px;
     left: 30px;
     
-}
+} 
 .menu {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
@@ -187,13 +187,14 @@ h3, h6 {
     background: none;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 h3 {
-    font-size: 25px;
+    font-size: 20px;
     background: none;
 }
 h6 {
-    font-size: 20px;
+    font-size: 15px;
     background: none;
 }
 #rights {
@@ -210,4 +211,17 @@ h6 {
 }
 #minorHeading {
     width: 1150px;
+}
+.FAQ-text-design {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 75%;
+    left: 40%;
+     
+}
+.FAQ-a-design {
+    text-decoration: underline;
+    color: white;
+    
 }
